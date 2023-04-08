@@ -1,0 +1,11 @@
+{
+    "type":"RNC"
+    "user": {
+        "id": 2,
+        "username": "dev",
+        "firstName": "dev",
+        "email": "dev@getnada.com",
+        "role": "Admin",
+        "image": "assets/images/avatars/profile.jpg"
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "type":"RNC"
+    "type":"RNC",
     "user": {
         "id": 2,
         "username": "dev",
